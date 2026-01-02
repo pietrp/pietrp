@@ -1,64 +1,83 @@
-# 👋 Olá, eu sou Pietro Reis
+<h1 align="center">👋 Olá, eu sou Pietro Reis</h1>
 
-🎯 **Foco em Cibersegurança, Sistemas Linux, Programação e Análise Técnica**  
-📍 Brasil  
+<p align="center">
+🎯 <strong>Foco em Cibersegurança, Sistemas Linux, Programação e Análise Técnica</strong><br>
+📍 Brasil<br>
 🚀 Em constante evolução técnica, com projetos práticos e estudo disciplinado
+</p>
 
----
+<hr>
 
-## 🧠 Sobre mim
+<h2>🧠 Sobre mim</h2>
 
-Sou um entusiasta de tecnologia com foco em **segurança da informação, hardening de sistemas, automação e desenvolvimento de ferramentas técnicas**.  
-Tenho interesse especial em **Blue Team, GRC, OSINT, Linux e programação de baixo nível**, sempre buscando transformar teoria em projetos reais.
+<p>
+Sou um entusiasta de tecnologia com foco em <strong>segurança da informação, hardening de sistemas, automação e desenvolvimento de ferramentas técnicas</strong>.<br>
+Tenho interesse especial em <strong>Blue Team, GRC, OSINT, Linux e programação de baixo nível</strong>, sempre buscando transformar teoria em projetos reais.
+</p>
 
----
+<hr>
 
-## 🛠️ Competências Técnicas
+<h2>🛠️ Competências Técnicas</h2>
 
-### 🔐 Cibersegurança & GRC
-- Hardening de sistemas Linux e Windows  
-- Conceitos de **Blue Team, SIEM, SOAR e Compliance as Code**  
-- OpenSCAP, CIS Benchmarks e políticas de segurança  
-- Fundamentos de detecção de malware e análise comportamental  
-- Segurança de bancos de dados (PostgreSQL, políticas de senha, permissões)
+<h3>🔐 Cibersegurança &amp; GRC</h3>
+<ul>
+  <li>Hardening de sistemas Linux e Windows</li>
+  <li>Conceitos de <strong>Blue Team, SIEM, SOAR e Compliance as Code</strong></li>
+  <li>OpenSCAP, CIS Benchmarks e políticas de segurança</li>
+  <li>Fundamentos de detecção de malware e análise comportamental</li>
+  <li>Segurança de bancos de dados (PostgreSQL, políticas de senha, permissões)</li>
+</ul>
 
-### 🐧 Sistemas & Infraestrutura
-- Administração Linux (Debian, Alpine, ambientes minimalistas)
-- Conceitos de SysAdmin e Infraestrutura
-- Automação de tarefas e scripts
-- Noções de redes e segurança de rede
+<h3>🐧 Sistemas &amp; Infraestrutura</h3>
+<ul>
+  <li>Administração Linux (Debian, Alpine, ambientes minimalistas)</li>
+  <li>Conceitos de SysAdmin e Infraestrutura</li>
+  <li>Automação de tarefas e scripts</li>
+  <li>Noções de redes e segurança de rede</li>
+</ul>
 
-### 💻 Programação
-- **Python** (automação, bots, segurança, scripts)
-- **C** (fundamentos, sistemas, segurança e baixo nível)
-- Bash/Shell Script
-- Estruturação de projetos e versionamento com Git
+<h3>💻 Programação</h3>
+<ul>
+  <li><strong>Python</strong> (automação, bots, segurança, scripts)</li>
+  <li><strong>C</strong> (fundamentos, sistemas, segurança e baixo nível)</li>
+  <li>Bash/Shell Script</li>
+  <li>Estruturação de projetos e versionamento com Git</li>
+</ul>
 
-### 🗄️ Dados & Bancos
-- **SQL** (SQLite, Mysql)
-- CRUD seguro
-- Modelagem básica de dados
-- Análise e organização de dados para projetos técnicos
+<h3>🗄️ Dados &amp; Bancos</h3>
+<ul>
+  <li><strong>SQL</strong> (SQLite, Mysql)</li>
+  <li>CRUD seguro</li>
+  <li>Modelagem básica de dados</li>
+  <li>Análise e organização de dados para projetos técnicos</li>
+</ul>
 
-### 🔍 OSINT & Pesquisa
-- Coleta e análise de dados abertos
-- Estruturação de investigações
-- Documentação técnica e relatórios
+<h3>🔍 OSINT &amp; Pesquisa</h3>
+<ul>
+  <li>Coleta e análise de dados abertos</li>
+  <li>Estruturação de investigações</li>
+  <li>Documentação técnica e relatórios</li>
+</ul>
 
----
+<hr>
 
-## 📈 Objetivos Atuais
-- Aproundar conhecimentos em **Cibersegurança e Infraestrutura**
-- Construir um portfólio técnico sólido no GitHub
-- Evoluir em **Blue Team, GRC e automação**
-- Conquistar oportunidades remotas e projetos práticos
+<h2>📈 Objetivos Atuais</h2>
+<ul>
+  <li>Aproundar conhecimentos em <strong>Cibersegurança e Infraestrutura</strong></li>
+  <li>Construir um portfólio técnico sólido no GitHub</li>
+  <li>Evoluir em <strong>Blue Team, GRC e automação</strong></li>
+  <li>Conquistar oportunidades remotas e projetos práticos</li>
+</ul>
 
----
+<hr>
 
-## 📫 Contato
-- Gmail: pietroreiscs@gmail.com
-- LinkedIn: *https://www.linkedin.com/in/pietro-reis-cs/*
+<h2>📫 Contato</h2>
+<ul>
+  <li>Gmail: pietroreiscs@gmail.com</li>
+  <li>LinkedIn: https://www.linkedin.com/in/pietro-reis-cs/</li>
+</ul>
 
----
+<p align="center">
+⭐ <em>Sempre aberto a aprender, colaborar e evoluir tecnicamente.</em>
+</p>
 
-⭐ *Sempre aberto a aprender, colaborar e evoluir tecnicamente.*
