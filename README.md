@@ -25,7 +25,6 @@ Tenho interesse especial em <strong>Blue Team, Linux e programação de baixo n�
   <li>Conceitos de <strong>Blue Team, SIEM, SOAR e Compliance as Code</strong></li>
   <li>OpenSCAP, CIS Benchmarks e políticas de segurança</li>
   <li>Fundamentos de detecção de malware e análise comportamental</li>
-  <li>Segurança de bancos de dados (PostgreSQL, políticas de senha, permissões)</li>
 </ul>
 
 <h3>🐧 Sistemas &amp; Infraestrutura</h3>
@@ -40,23 +39,7 @@ Tenho interesse especial em <strong>Blue Team, Linux e programação de baixo n�
 <ul>
   <li><strong>Python</strong> (automação, bots, segurança, scripts)</li>
   <li><strong>C</strong> (fundamentos, sistemas, segurança e baixo nível)</li>
-  <li>Bash/Shell Script</li>
   <li>Estruturação de projetos e versionamento com Git</li>
-</ul>
-
-<h3>🗄️ Dados &amp; Bancos</h3>
-<ul>
-  <li><strong>SQL</strong> (SQLite, Mysql)</li>
-  <li>CRUD seguro</li>
-  <li>Modelagem básica de dados</li>
-  <li>Análise e organização de dados para projetos técnicos</li>
-</ul>
-
-<h3>🔍 OSINT &amp; Pesquisa</h3>
-<ul>
-  <li>Coleta e análise de dados abertos</li>
-  <li>Estruturação de investigações</li>
-  <li>Documentação técnica e relatórios</li>
 </ul>
 
 <hr>
