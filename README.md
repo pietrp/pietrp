@@ -75,7 +75,6 @@ confiabilidade e segurança**.
 - Wireshark  
 - Metasploit (básico)  
 - LinPEAS  
-- Netcat  
 - OpenSSL  
 
 </div>
