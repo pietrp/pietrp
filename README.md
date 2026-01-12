@@ -12,7 +12,7 @@
 
 <p>
 Sou um entusiasta de tecnologia com foco em <strong>segurança da informação, hardening de sistemas, automação e desenvolvimento de ferramentas técnicas</strong>.<br>
-Tenho interesse especial em <strong>Blue Team, GRC, OSINT, Linux e programação de baixo nível</strong>, sempre buscando transformar teoria em projetos reais.
+Tenho interesse especial em <strong>Blue Team, Linux e programação de baixo nível</strong>, sempre buscando transformar teoria em projetos reais.
 </p>
 
 <hr>
