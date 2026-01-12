@@ -41,8 +41,6 @@ confiabilidade e segurança**.
 
 ## Tecnologias
 
-<p><em>Espaço reservado para ícones (SVG, PNG ou Devicon)</em></p>
-
 <div class="tech-grid">
 
 <div class="tech-card">
