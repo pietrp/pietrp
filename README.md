@@ -1,50 +1,124 @@
-<h1 align="center">👋 Olá, eu sou Pietro Reis</h1>
+<!-- README.md -->
 
-<p align="center">
-🎯 <strong>Foco em Cibersegurança, Sistemas Linux, Programação e Análise Técnica</strong><br>
-📍 Brasil<br>
-🚀 Em constante evolução técnica, com projetos práticos e estudo disciplinado
-</p>
+<div align="center">
 
-<hr>
-
-<h2>🧠 Sobre mim</h2>
+<h1>C Developer</h1>
+<h3>Cybersecurity Analyst • Low-Level & Systems</h3>
 
 <p>
-Sou um entusiasta de tecnologia com foco em <strong>segurança da informação, hardening de sistemas, automação e desenvolvimento de ferramentas técnicas</strong>.<br>
-Tenho interesse especial em <strong>Blue Team, Linux e programação de baixo nível</strong>, sempre buscando transformar teoria em projetos reais.
+Programação de baixo nível, sistemas operacionais e segurança aplicada ao software.
 </p>
 
-<hr>
+</div>
 
-<h2>🛠️ Competências Técnicas</h2>
+---
 
-<h3>🔐 Cibersegurança &amp; GRC</h3>
-<ul>
-  <li>Hardening de sistemas Linux e Windows</li>
-  <li>Conceitos de <strong>Blue Team, SIEM, SOAR e Compliance as Code</strong></li>
-  <li>OpenSCAP, CIS Benchmarks e políticas de segurança</li>
-  <li>Fundamentos de detecção de malware e análise comportamental</li>
-</ul>
 
-<h3>🐧 Sistemas &amp; Infraestrutura</h3>
-<ul>
-  <li>Administração Linux (Debian, Alpine, ambientes minimalistas)</li>
-  <li>Conceitos de SysAdmin e Infraestrutura</li>
-  <li>Automação de tarefas e scripts</li>
-  <li>Noções de redes e segurança de rede</li>
-</ul>
+## Sobre mim
 
-<h3>💻 Programação</h3>
-<ul>
-  <li><strong>Python</strong> (automação, bots, segurança, scripts)</li>
-  <li><strong>C</strong> (fundamentos, sistemas, segurança e baixo nível)</li>
-  <li>Estruturação de projetos e versionamento com Git</li>
-</ul>
+Sou desenvolvedor em **C** e **analista de cibersegurança**, com foco em
+**programação de baixo nível**, **sistemas operacionais**, **redes** e
+**segurança de software**.
 
-<hr>
+Atuo próximo ao hardware, kernel e protocolos, priorizando **performance,
+confiabilidade e segurança**.
 
-<h2>📈 Objetivos Atuais</h2>
+</div>
+
+<div class="section">
+
+## Áreas de Atuação
+
+- Programação em C (baixo nível)
+- Sistemas Operacionais (Linux)
+- Redes de Computadores
+- Segurança ofensiva e defensiva
+- Análise e mitigação de vulnerabilidades
+
+</div>
+
+<div class="section">
+
+## Tecnologias
+
+<p><em>Espaço reservado para ícones (SVG, PNG ou Devicon)</em></p>
+
+<div class="tech-grid">
+
+<div class="tech-card">
+  <!-- Ícone aqui -->
+  C
+</div>
+
+<div class="tech-card">
+  Linux
+</div>
+
+<div class="tech-card">
+  GCC
+</div>
+
+<div class="tech-card">
+  GDB
+</div>
+
+<div class="tech-card">
+  Makefile
+</div>
+
+<div class="tech-card">
+  Networking
+</div>
+
+<div class="tech-card">
+  Cybersecurity
+</div>
+
+<div class="tech-card">
+  WSL
+</div>
+
+</div>
+</div>
+
+<div class="section">
+
+## Ferramentas de Segurança
+
+- Nmap  
+- Wireshark  
+- Metasploit (básico)  
+- LinPEAS  
+- Netcat  
+- OpenSSL  
+
+</div>
+
+<div class="section">
+
+## Objetivos Profissionais
+
+Atuar como **Desenvolvedor C Júnior** ou **Analista de Cibersegurança técnico**,
+evoluindo para áreas como:
+
+- Segurança de software
+- Exploração binária
+- Sistemas embarcados
+- Infraestrutura crítica
+
+</div>
+
+<div class="section">
+
+## Filosofia
+
+<blockquote>
+Segurança não é uma ferramenta, é consequência de bons fundamentos.
+</blockquote>
+
+</div>
+
+</div>
 <ul>
   <li>Aproundar conhecimentos em <strong>Cibersegurança e Infraestrutura</strong></li>
   <li>Construir um portfólio técnico sólido no GitHub</li>
