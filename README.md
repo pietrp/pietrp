@@ -98,19 +98,13 @@ evoluindo para áreas como:
 
 <div class="section">
 
-## Filosofia
-
-<blockquote>
-Segurança não é uma ferramenta, é consequência de bons fundamentos.
-</blockquote>
-
 </div>
 
 </div>
 <ul>
   <li>Aproundar conhecimentos em <strong>Cibersegurança e Infraestrutura</strong></li>
   <li>Construir um portfólio técnico sólido no GitHub</li>
-  <li>Evoluir em <strong>Blue Team, GRC e automação</strong></li>
+  <li>Evoluir em <strong>Blue Team e Desenvolvimento de Baixo Nivel</strong></li>
   <li>Conquistar oportunidades remotas e projetos práticos</li>
 </ul>
 
