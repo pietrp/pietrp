@@ -66,18 +66,6 @@ confiabilidade e segurança**.
   Makefile
 </div>
 
-<div class="tech-card">
-  Networking
-</div>
-
-<div class="tech-card">
-  Cybersecurity
-</div>
-
-<div class="tech-card">
-  WSL
-</div>
-
 </div>
 </div>
 
