@@ -1,119 +1,85 @@
-<!-- README.md -->
+# 👋 Hi, I'm Pietro Reis
 
-<div align="center">
+I am a **self-taught cybersecurity and low-level software enthusiast** focused on **malware analysis**, **reverse engineering**, and **systems programming**.
 
-<h1>PIETRO REIS</h1>
-<h3>Cybersecurity Analyst • Low-Level & Systems</h3>
-
-<p>
-Programação de baixo nível, sistemas operacionais e segurança aplicada ao software.
-</p>
-
-</div>
+My work emphasizes understanding software at its lowest layers — binaries, memory, operating systems, and low-level networking — with a strong practical and analytical approach.
 
 ---
 
+## 🎯 Professional Focus
+- Cybersecurity Analyst (Malware Analysis)
+- Reverse Engineer
+- Low-Level Software Developer
+- Linux-based Systems
 
-## Sobre mim
+---
 
-Sou desenvolvedor em **C** e **analista de cibersegurança**, com foco em
-**programação de baixo nível**, **sistemas operacionais**, **redes** e
-**segurança de software**.
+## 🧠 Core Technical Areas
+- Malware Analysis (static and dynamic)
+- Reverse Engineering of binaries
+- Low-Level Programming
+- Linux Internals
+- Networking fundamentals
+- Software Security
+- Legacy Systems
 
-Atuo próximo ao hardware, kernel e protocolos, priorizando **performance,
-confiabilidade e segurança**.
+---
 
-</div>
+## 🛠️ Technical Skills
 
-<div class="section">
+### Programming Languages
+- **C** (primary focus)
+- **C++**
+- **Rust** (learning)
 
-## Áreas de Atuação
+### Operating Systems
+- Linux (Debian, Alpine)
 
-- Programação em C (baixo nível)
-- Sistemas Operacionais (Linux)
-- Redes de Computadores
-- Segurança ofensiva e defensiva
-- Análise e mitigação de vulnerabilidades
+### Reverse Engineering & Security Tools
+- Ghidra  
+- Radare2  
+- GDB  
+- Valgrind  
+- strace / ltrace  
 
-</div>
+### Build & Development
+- Make  
+- CMake  
+- Git / GitHub  
+- Bash / Shell scripting  
 
-<div class="section">
+---
 
-## Tecnologias
+## 🔬 What You’ll Find in This GitHub
+- Malware analysis labs (educational and non-destructive)
+- Reverse engineering exercises and notes
+- Low-level networking projects in C
+- Linux tooling and automation
+- Legacy-style software experiments
+- Security-focused code with clear technical documentation
 
-<div class="tech-grid">
+Each repository includes a **technical README** explaining:
+- Objectives
+- Design decisions
+- Security considerations
+- Lessons learned
 
-<div class="tech-card">
-  <!-- Ícone aqui -->
-  C
-</div>
+---
 
-<div class="tech-card">
-  Linux
-</div>
+## 📌 Current Goals
+- Deepen expertise in malware analysis and reverse engineering
+- Build a solid portfolio of low-level C/C++ projects
+- Contribute to open-source systems and security projects
+- Prepare for international cybersecurity roles
 
-<div class="tech-card">
-  GCC
-</div>
+---
 
-<div class="tech-card">
-  GDB
-</div>
+## 🌍 Languages
+- Portuguese: Native  
+- English: B2
 
-<div class="tech-card">
-  Makefile
-</div>
+---
 
-</div>
-</div>
+> *Understanding binaries, memory, and system internals is the foundation of real security.*
 
-<div class="section">
-
-## Ferramentas de Segurança
-
-- Nmap  
-- Wireshark  
-- Metasploit (básico)  
-- LinPEAS  
-- OpenSSL  
-
-</div>
-
-<div class="section">
-
-## Objetivos Profissionais
-
-Atuar como **Desenvolvedor C Júnior** ou **Analista de Cibersegurança técnico**,
-evoluindo para áreas como:
-
-- Segurança de software
-- Exploração binária
-- Sistemas embarcados
-- Infraestrutura crítica
-
-</div>
-
-<div class="section">
-
-</div>
-
-</div>
-<ul>
-  <li>Aproundar conhecimentos em <strong>Cibersegurança e Infraestrutura</strong></li>
-  <li>Construir um portfólio técnico sólido no GitHub</li>
-  <li>Evoluir em <strong>Blue Team e Desenvolvimento de Baixo Nivel</strong></li>
-  <li>Conquistar oportunidades remotas e projetos práticos</li>
-</ul>
-
-<hr>
-
-<h2>📫 Contato</h2>
-<ul>
-  <li>Gmail: pietroreiscs@gmail.com</li>
-  <li>LinkedIn: https://www.linkedin.com/in/pietro-reis-cs/</li>
-</ul>
-
-<p align="center">
-⭐ <em>Sempre aberto a aprender, colaborar e evoluir tecnicamente.</em>
-</p>
 
