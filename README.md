@@ -52,17 +52,6 @@ My work emphasizes understanding software at its lowest layers — binaries, mem
 
 ---
 
-## 🔬 What You’ll Find in This GitHub
-- Malware analysis labs
-- Reverse engineering exercises and notes
-- Low-level networking projects in C
-- Linux tooling and automation
-- Legacy-style software experiments
-- Security-focused code with clear technical documentation
-- Projects made for fun(like videogames)
-
----
-
 ## 📌 Current Goals
 - Deepen expertise in malware analysis and reverse engineering
 - Build a solid portfolio of low-level and security projects
