@@ -53,7 +53,7 @@ My work emphasizes understanding software at its lowest layers — binaries, mem
 ---
 
 ## 🔬 What You’ll Find in This GitHub
-- Malware analysis labs (educational and non-destructive)
+- Malware analysis labs
 - Reverse engineering exercises and notes
 - Low-level networking projects in C
 - Linux tooling and automation
