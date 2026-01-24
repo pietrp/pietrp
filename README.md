@@ -31,6 +31,7 @@ My work emphasizes understanding software at its lowest layers — binaries, mem
 - **C** (primary focus)
 - **C++**
 - **Rust** (learning)
+- **Lua**
 
 ### Operating Systems
 - Linux (Debian, Alpine)
@@ -45,8 +46,7 @@ My work emphasizes understanding software at its lowest layers — binaries, mem
 ### Build & Development
 - Make  
 - CMake  
-- Git / GitHub  
-- Bash / Shell scripting  
+- Git / GitHub   
 
 ---
 
@@ -57,20 +57,15 @@ My work emphasizes understanding software at its lowest layers — binaries, mem
 - Linux tooling and automation
 - Legacy-style software experiments
 - Security-focused code with clear technical documentation
-
-Each repository includes a **technical README** explaining:
-- Objectives
-- Design decisions
-- Security considerations
-- Lessons learned
+- Projects made for fun(like videogames)
 
 ---
 
 ## 📌 Current Goals
 - Deepen expertise in malware analysis and reverse engineering
-- Build a solid portfolio of low-level C/C++ projects
+- Build a solid portfolio of low-level and security projects
 - Contribute to open-source systems and security projects
-- Prepare for international cybersecurity roles
+- Prepare for international cybersecurity and low-level development roles
 
 ---
 
