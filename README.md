@@ -30,10 +30,8 @@ My work emphasizes understanding software at its lowest layers — binaries, mem
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- **C** (primary focus)
+- **C**
 - **C++**
-- **Rust** (learning)
-- **Lua**
 
 ### Operating Systems
 - Linux (Debian, Alpine)
