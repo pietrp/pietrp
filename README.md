@@ -1,6 +1,8 @@
+
 # 👋 Hi, I'm Pietro Reis
 
-<img width="1584" height="396" alt="Copy of KING" src="https://github.com/user-attachments/assets/d3cd33d7-9ea8-4b3a-b56d-f6dd0296f275" />
+<img width="1920" height="1080" alt="a4actpe5spc61" src="https://github.com/user-attachments/assets/86d0b136-8260-4f31-a514-3936bd278409" />
+
 
 I am a **self-taught cybersecurity and low-level software enthusiast** focused on **malware analysis**, **reverse engineering**, and **systems programming**.
 
