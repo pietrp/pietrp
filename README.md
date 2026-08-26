@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Pietro Reis
 
-I am a self-taught developer with 17 years old, **making systems** and **profit**
+I am a self-taught developer with 17 years old, **making systems** and **solutions**
 
 <br clear="both">
 
